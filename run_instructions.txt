@@ -1,0 +1,14 @@
+1) Download Python and Install.
+2)double click on the Brick-Game.py file and game opens. Press Space to continue.
+			
+			or
+
+2) Download VS code and install it and also install the python extension in VS code editor.
+3) If by default wasn't added in system variables add both VS code and python paths in System variables.
+4) Install the tkinter by writing the following command as pip install tk.
+5) Run the python file brick_game.py in an interactive windows. This can be done by opening the code in VS code and right click on the file
+   and select run current file in an interactive window.
+6) Then it will install and configure for ipkernel and jupiter lab.
+7) Close the file and agai  repeat the step 5.
+8) We can see the brick breaker game window. Press space to start.
+
